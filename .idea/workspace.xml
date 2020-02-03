@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c493caf6-0cdc-4670-9113-f66866dc888f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +100,10 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="762" y="345" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1580451177503" />
-    <state x="780" y="311" key="FileChooserDialogImpl" timestamp="1580452057316">
+    <state x="780" y="311" key="FileChooserDialogImpl" timestamp="1580454250631">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="780" y="311" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1580452057316" />
+    <state x="780" y="311" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1580454250631" />
     <state x="780" y="285" key="FileChooserDialogImpl/65.24.1855.960@65.24.1855.960" timestamp="1580357523265" />
     <state x="301" y="162" key="SettingsEditor" timestamp="1580451704872">
       <screen x="65" y="24" width="1855" height="1056" />
